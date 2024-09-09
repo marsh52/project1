@@ -10,4 +10,5 @@ _/project1/Resources_
 + Directory containing files which are necessary for the analysis, this includes several cleaned/sorted .csv files.
   
 ### Group Member Directories
+_/project1/GroupMemberFiles_
 + Each member of the group has a directory with individual exploratory investigations.
